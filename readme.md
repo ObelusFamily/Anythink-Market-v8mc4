@@ -10,7 +10,8 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-1.  Make sure you have Docker desktop up and running. If you don't have Docker setup, <a href="https://docs.docker.com/get-docker/ ">install it</a>.
-2.  Run `docker-compose up` from the root directory of the project.
-3.  Head to `localhost:3000/api/ping` and check to see if the backend is up and running.
-4.  Go to `localhost:3001/register` and create a new user to verify everything is working properly.
+1. Clone this repository
+2. Make sure you have Docker desktop up and running. If you don't have Docker setup, <a href="https://docs.docker.com/get-docker/ ">install it</a>.
+3. Run `docker-compose up` from the root directory of the project.
+4. Head to `localhost:3000/api/ping` and check to see if the backend is up and running.
+5. Go to `localhost:3001/register` and create a new user to verify everything is working properly.
